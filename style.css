@@ -1,0 +1,89 @@
+html {
+    scroll-behavior: smooth;
+  }
+.tictket-card {
+    width: 78%!important;
+    margin: auto;
+    height:293px;
+}
+
+
+.SelectSeat {
+    width: 78%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+ 
+
+#steering{
+    padding-left: 42px;
+    padding-right: 42px;
+    margin-top: 7px;
+    margin-bottom: 12px;
+}
+
+#steering i {
+    font-size: 24px;
+}
+
+button.bankai {
+    padding: 8px 44px;
+}
+
+/* This CSS code will create a vertical dotted border between the 80% and 20% divs */
+.left-content::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: gray;
+    border-left: 1px dotted gray;
+  }
+
+  
+.afterClick{
+    background: #1DD100!important;
+    color: white!important;
+}
+
+
+button#seatCount {
+    font-size: 13px;
+    padding: 0px 9px;
+    border-radius: 100%;
+    margin-left: -3px;
+    margin-right: 3px;
+ 
+}
+
+
+
+.ticketBtn{
+   border-radius: 26px;
+}
+
+
+section.offers {
+    width: 70%;
+    margin: auto;
+    margin-top: 86px;
+    margin-bottom: 86px;
+}
+
+
+
+.details1 {
+    padding: 37px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+    border-radius: 26px;
+}
+.details2 {
+    padding: 37px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+    border-radius: 26px;
+}
