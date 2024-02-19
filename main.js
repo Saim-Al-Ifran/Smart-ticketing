@@ -82,10 +82,5 @@
          
  };
  
-// document.getElementById("nextBtn").addEventListener("click",function(){
-//              if(seatCount > 0){
-//                     console.log(this);
-//              }
-// });
-
+ 
  
